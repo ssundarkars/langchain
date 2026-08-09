@@ -1,0 +1,11 @@
+# Sample .env with all required API Key <Be very aware with mistakingly exposing your keys to any public repositories>. Immedeately delete all keys if exposed in any scenarios.
+
+OPENAI_API_KEY = ""
+GOOGLE_API_KEY = ""
+GROQ_API_KEY = ""
+HF_TOKEN = ""
+HUGGINGFACEHUB_API_TOKEN = ""   
+MISTRAL_API_KEY =  ""
+MISTRAL_API_KEY=  ""
+ANTHROPIC_API_KEY = ""
+DEEPSEEK_API_KEY = ""
